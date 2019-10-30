@@ -1,13 +1,13 @@
 /**
  * SYST 17796 Project Winter 2019 Base code.
  * Students can modify and extend to implement their game.
- * Ognjen Cicovic 2019/10/13
+ * 4GUYS 2019/10/30
  */
 package project;
 
 /**
  *
- * @author Oggy
+ * @author 4GUYS
  */
 public abstract class Card 
 {
