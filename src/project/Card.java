@@ -11,7 +11,7 @@ package project;
  */
 public abstract class Card 
 {
-    //default modifier for child classes
+    //default modifier for child classesdwdwdwdwdw
     
     /**
      * Students should implement this method for their specific children classes 
